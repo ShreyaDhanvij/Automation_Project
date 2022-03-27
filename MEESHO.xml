@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+    <class name="MeeshoTestNG.TC01URLTitle"/>
+    <class name="MeeshoTestNG.TC02Registration"/>  
+    <class name="MeeshoTestNG.TC03BecomeASupplier"/>
+    <class name="MeeshoTestNG.TC05WomenEthenicModule"/>
+    <class name="MeeshoTestNG.TC06WomenWesternModule"/>
+    <class name="MeeshoTestNG.TC07JewelleryNAccessories"/>
+      <class name="MeeshoTestNG.TC08Men"/>
+      <class name="MeeshoTestNG.TC09BeautynHealth"/>
+      <class name="MeeshoTestNG.TC10BagsnFootwear"/>
+      <class name="MeeshoTestNG.TC11HomeNKitchen"/>
+      <class name="MeeshoTestNG.TC12Electronics"/>
+      <class name="MeeshoTestNG.TC13NextButton"/>
+      <class name="MeeshoTestNG.TC14ViewAll"/>
+      <class name="MeeshoTestNG.TC15Careers"/>
+      <class name="MeeshoTestNG.TC16Facebook"/>
+      <class name="MeeshoTestNG.TC17InstaGram"/>
+       <class name="MeeshoTestNG.TC18YouTube"/>  
+        <class name="MeeshoTestNG.TC19LinkedIn"/>  
+      <class name="MeeshoTestNG.TC20download"/>     
+       <class name="MeeshoTestNG.TC21LEGAL"/>
+        <class name="MeeshoTestNG.TC22Gplay"/>  
+  
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
